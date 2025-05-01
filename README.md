@@ -27,4 +27,4 @@ Layer	Tools Used
 🌐 Integration	Serper.dev Web Search, REST APIs
 
 # 📄 Example Use Case (for resume line):
-# Built Cogniplan AI — a smart AI-powered study planner that uses LLMs to generate personalized learning paths, semantic topic suggestions, and adaptive scheduling for students preparing for competitive exams or academic milestones.
+Built a smart AI-powered study planner that uses LLMs to generate personalized learning paths, semantic topic suggestions, and adaptive scheduling for students preparing for competitive exams or academic milestones.
