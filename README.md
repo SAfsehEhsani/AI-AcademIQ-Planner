@@ -1,5 +1,7 @@
 # AI-AcademIQ-Planner
 # LLM-Powered Adaptive Study Planner & Smart Topic Assistant
+DEMO : https://drive.google.com/file/d/1-xyTwmdpH7epS2bCGV0HHw8-hOglX4-i/view?usp=sharing
+
 An intelligent, personalized study planner powered by Generative AI that creates optimized learning schedules, recommends topics, and adapts to user goals and timelines. Designed for students across fields like engineering, medicine, and competitive exams. The app integrates LLMs, web search, and vector databases to deliver dynamic topic suggestions, study materials, and progress tracking.
 
 # 🧠 Key Features:
